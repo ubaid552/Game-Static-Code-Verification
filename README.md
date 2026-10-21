@@ -232,12 +232,3 @@ This project demonstrates a structured approach to static code verification for 
 
 The checklist provides a concise overview, while the detailed report supports further investigation and correction. Together, these documents provide a foundation for improving code correctness, memory safety, and software reliability.
 
-## Author
-
-**Name:** [Your Name]  
-**Course:** Software Verification and Validation (SVV)  
-**Project:** C++ Static Code Verification and Code Review
-
----
-
-*This repository was prepared for educational purposes as part of a Software Verification and Validation task.*
